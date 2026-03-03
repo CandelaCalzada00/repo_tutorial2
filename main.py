@@ -1,3 +1,2 @@
-nombre = input("Ingresa tu nombre: ")
-print(f"Bienvenid@ {nombre}")
-# prueba!
+apellido = input("Ingresa tu apellido: ")
+print(f"Bienvenid@ {apellido}")
